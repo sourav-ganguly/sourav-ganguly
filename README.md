@@ -16,4 +16,5 @@
 - 👯 I’m looking to collaborate on open-source
 - 💬 Ask me about technology
 - 📫 How to reach me: https://twitter.com/saadaakaaloo
+- 🖋 Blog on: https://sourav-ganguly.github.io
 - 😄 Pronouns: He/Him
