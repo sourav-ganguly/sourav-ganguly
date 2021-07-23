@@ -6,7 +6,7 @@
 
 ##### NOW
 
-- ✨ Crafted last [Jíme zdravě](https://apps.apple.com/cz/app/j%C3%ADme-zdravě/id1021209578) ios App;
+- ✨ Crafted last [Jíme zdravě](https://apps.apple.com/cz/app/j%C3%ADme-zdravě/id1021209578) iOS App;
 
 ##### BIO
 
