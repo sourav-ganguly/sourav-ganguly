@@ -1,16 +1,19 @@
+
 ### Hi there 👋
 
-<!--
-**sourav-ganguly/sourav-ganguly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a mobile application developer working in Dhaka, Bangladesh.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### NOW
+
+- ✨ Crafted last [Jíme zdravě](https://apps.apple.com/cz/app/j%C3%ADme-zdravě/id1021209578) ios App;
+
+##### BIO
+
+- 🏢 I'm currently working at **Monstarlab Bangladesh**
+- ⚙️ I use daily: `.swift`, `.dart`, `.py`
+- 🌱 I’m currently learning **flutter**
+- 👯 I’m looking to collaborate on open-source
+- 💬 Ask me about technology
+- 📫 How to reach me: https://twitter.com/saadaakaaloo
+- 😄 Pronouns: He/Him
