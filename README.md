@@ -10,8 +10,8 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Monstarlab Bangladesh**
-- ⚙️ I use daily: `.swift`, `.dart`, `.py`
+- 🏢 I'm currently working at **The Fabulous**
+- ⚙️ I use daily: `.swift`, `.java`, `.dart`
 - 🌱 I’m currently learning **flutter**
 - 👯 I’m looking to collaborate on open-source
 - 💬 Ask me about technology
