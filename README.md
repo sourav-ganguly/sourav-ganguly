@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-#### I'm a mobile application developer working in Dhaka, Bangladesh.
+#### I'm a mobile app developer working remotely from Dhaka, Bangladesh.
 
 
 ##### NOW
