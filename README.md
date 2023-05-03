@@ -10,9 +10,9 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **The Fabulous**
+- 🏢 I'm currently working at **Augmedix, Inc.**
 - ⚙️ I use daily: `.swift`, `.java`, `.dart`
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **SwiftUI**
 - 👯 I’m looking to collaborate on open-source
 - 💬 Ask me about technology
 - 📫 How to reach me: https://twitter.com/saadaakaaloo
